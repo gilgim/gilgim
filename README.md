@@ -1,4 +1,16 @@
 <div align="center">
+  <h2>👋🏼&nbsp;&nbsp;
+  Introduce
+  &nbsp;&nbsp;👋🏼
+  </h2>
+  틈틈히 커밋하고 있지만 학습용으로 올리는 경우가 많습니다. 과거 프로젝트들이 Private로 설정되어있습니다.
+  <br>궁금하신 분으 없겠으나 궁금하시면 블로그에 댓글써주세요..
+  가끔 <a href="https://blog.naver.com/gilgim">블로그</a> 글도 쓰고 있습니다.
+  <br>기초를 기반으로 학습하고 있습니다. 아자아자 입니다.
+  <br>아래 프로젝트는 새로운 기술들을 공부하기 위해서 작성하고 있습니다.
+  <br>기본적인 프레임워크나 언어적 특성은 백준과 회사 프로젝트에서 충분히 사용중에 있습니다.
+</div>
+<div align="center">
   <h2>🍀&nbsp;&nbsp;
   Stack & Tool
   &nbsp;&nbsp;🍀
@@ -44,3 +56,31 @@
   </h2>
   
 </div>
+<dl>
+  <dt>✱&nbsp;Router</dt>
+  <dd>운동 루틴을 사용자 커스텀하게 하고 저장하는 앱 입니다.<br>기술을 익히기 위한 저의 토이 프로젝트로 매 번 리뉴얼하여 구조를 개선하거나 기능을 수정하여 공부하고 있습니다.</dd>
+  <ul>
+    <li><a href="https://github.com/gilgim/ExerciseProjects">ExerciseProjects</a>
+      &nbsp:&nbsp 아키텍처를 공부하기위해 여러번의 리뉴얼 과정을 거쳤습니다.<br><br>
+      사용 기술 &nbsp:&nbsp
+      <img src="https://img.shields.io/badge/UIKit-698269?style=for-the-badge&logo=JSON Web Tokens&logoColor=white">
+      <img src="https://img.shields.io/badge/SwiftUI-00425A?style=for-the-badge&logo=JSON Web Tokens&logoColor=white">
+      <img src="https://img.shields.io/badge/Combine-86A3B8?style=for-the-badge&logo=JSON Web Tokens&logoColor=white">
+      <br><br>
+    </li>
+    <li><a href="https://github.com/gilgim/SimpleRouter">Router</a>
+      &nbsp:&nbsp 앱 출시를 위해 현재 진행하고 있습니다. git 브랜치 관리 및 XCTest도 사용예정 입니다.<br><br>
+      사용 기술 &nbsp:&nbsp
+      <img src="https://img.shields.io/badge/UIKit-698269?style=for-the-badge&logo=JSON Web Tokens&logoColor=white">
+      <img src="https://img.shields.io/badge/SwiftUI-00425A?style=for-the-badge&logo=JSON Web Tokens&logoColor=white">
+      <img src="https://img.shields.io/badge/Combine-86A3B8?style=for-the-badge&logo=JSON Web Tokens&logoColor=white">
+    </li>
+  </ul>
+</dl>
+<dl>
+  <dt>✱&nbsp;<a href="https://github.com/gilgim/ExerciseProjects">FireMap</a></dt>
+  <dd>화재 지역을 사용자에게 제공하기 위한 취지로 제작 중인 앱 입니다..<br>현재 aws에 우분투 리눅스를 설치하여 데이터를 가공하였습니다. API 제공하는 법을 공부하고 있습니다.</dd><br>
+  사용 기술 &nbsp:&nbsp
+  <img src="https://img.shields.io/badge/SwiftUI-00425A?style=for-the-badge&logo=JSON Web Tokens&logoColor=white">
+  <img src="https://img.shields.io/badge/Combine-86A3B8?style=for-the-badge&logo=JSON Web Tokens&logoColor=white">
+</dl>
