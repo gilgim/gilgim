@@ -78,7 +78,7 @@
   </ul>
 </dl>
 <dl>
-  <dt>✱&nbsp;<a href="https://github.com/gilgim/ExerciseProjects">FireMap</a></dt>
+  <dt>✱&nbsp;<a href="https://github.com/gilgim/FireMap">FireMap</a></dt>
   <dd>화재 지역을 사용자에게 제공하기 위한 취지로 제작 중인 앱 입니다..<br>현재 aws에 우분투 리눅스를 설치하여 데이터를 가공하였습니다. API 제공하는 법을 공부하고 있습니다.</dd><br>
   사용 기술 &nbsp:&nbsp
   <img src="https://img.shields.io/badge/SwiftUI-00425A?style=for-the-badge&logo=JSON Web Tokens&logoColor=white">
