@@ -56,7 +56,7 @@
   </h2>
   
 </div>
-<dl>
+<!-- <dl>
   <dt>✱&nbsp;Router</dt>
   <dd>운동 루틴을 사용자 커스텀하게 하고 저장하는 앱 입니다.<br>기술을 익히기 위한 저의 토이 프로젝트로 매 번 리뉴얼하여 구조를 개선하거나 기능을 수정하여 공부하고 있습니다.</dd>
   <ul>
@@ -76,7 +76,7 @@
       <img src="https://img.shields.io/badge/Combine-86A3B8?style=for-the-badge&logo=JSON Web Tokens&logoColor=white">
     </li>
   </ul>
-</dl>
+</dl> -->
 <dl>
   현업과 개인 프로젝트 과정에서 이슈 해결 과정 및 코드를 정리해서 4월은 너무 바쁜 이유로 5월 중에 올릴 예정
 </dl>
