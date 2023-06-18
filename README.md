@@ -30,8 +30,8 @@
     <a href="https://solved.ac/gilgim"><img src="http://mazassumnida.wtf/api/generate_badge?boj=gilgim" alt="Solved.ac 프로필"></a>
 </div>
 
-## 현재 학습사항()
-- ReactNative() 2023.04 ~
-- Swift 컴파일러() 2023.06 ~
-- 머신러닝() 2023.06 ~
-- AR, VR() 2023.06 ~
+## 현재 학습사항(Current Learning Topics)
+- ReactNative 2023.04 ~
+- Swift 컴파일러(Swift Compiler) 2023.06 ~
+- 머신러닝(Machine Learning) 2023.06 ~
+- AR, VR 2023.06 ~
