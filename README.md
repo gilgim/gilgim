@@ -1,4 +1,4 @@
-## 나의정보(GilGim's Info)
+# 나의정보(GilGim's Info)
 - **이름(Nickname):** Gilgim
 - **경력(Career):** 2020 ~
 - **이메일(Email):** [gilgim21@gmail.com](mailto:gilgim21@gmail.com)
@@ -31,7 +31,8 @@
 </div>
 
 ## 현재 학습사항(Current Learning Topics)
-- ReactNative 2023.04 ~
-- Swift 컴파일러(Swift Compiler) 2023.06 ~
-- 머신러닝(Machine Learning) 2023.06 ~
-- AR, VR 2023.06 ~
+- ReactNative 2023.04 ~ 2023.10
+- Swift 컴파일러(Swift Compiler) 2023.06 ~ 2023.10
+- 머신러닝(Machine Learning) 2023.06 ~ 2023.12
+- AR, VR 2023.06 ~ 2024.01
+- macOS Shell, ARM Architecture 2023.11 ~ 
