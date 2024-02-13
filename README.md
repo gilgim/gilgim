@@ -4,7 +4,7 @@
 - **이메일(Email):** [gilgim21@gmail.com](mailto:gilgim21@gmail.com)
 - **블로그 및 노션(Blog & Notion):** [![Naver Badge](https://img.shields.io/badge/-Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/gilgim)](https://blog.naver.com/gilgim)
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Gilgim-a7d04671373e45b6995c26d7b0c029cb?pvs=4)](https://www.notion.so/Gilgim-a7d04671373e45b6995c26d7b0c029cb?pvs=4)
-- **취미(Hobbies):** 헬스(Gym), 방탈출(Escape Room), 여행(Travel), 클라이밍(Climbing)  
+- **취미(Hobbies):** 헬스(Weight), 방탈출(Escape Room), 여행(Travel) 
 ## 기술스택(Technical Stack)  
 
 <p align = "center">
@@ -32,7 +32,12 @@
 
 ## 현재 학습사항(Current Learning Topics)
 - ReactNative 2023.04 ~ 2023.10
-- Swift 컴파일러(Swift Compiler) 2023.06 ~ 2023.10
-- 머신러닝(Machine Learning) 2023.06 ~ 2023.12
-- AR, VR 2023.06 ~ 2024.01
-- macOS Shell, ARM Architecture 2023.11 ~ 
+- Swift 컴파일러(Swift Compiler) 2024.01 ~
+- 머신러닝(Machine Learning) 2024.06 ~
+- VisionOS (AR, VR) 2024.01 ~
+- Linux 2024.02 ~
+
+## 학습 완료
+- ReactNative
+- Python
+- Swift 고급(Objective C)
