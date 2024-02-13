@@ -37,7 +37,7 @@
 - VisionOS (AR, VR) 2024.01 ~
 - Linux 2024.02 ~
 
-## 학습 완료
+## 학습 완료(Completed Learning)
 - ReactNative
 - Python
 - Swift 고급(Objective C)
