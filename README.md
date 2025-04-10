@@ -3,8 +3,6 @@
 **Career:** 2020 ~  
 **Email:** [gilgim21@gmail.com](mailto:gilgim21@gmail.com)  
 **Blog & Notion:** 
-[![Naver](https://img.shields.io/badge/-Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/gilgim) 
-[![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/Gilgim-a7d04671373e45b6995c26d7b0c029cb?pvs=4)
 
 **Hobbies:** Weightlifting, Escape Room, Traveling  
 
